@@ -9,6 +9,8 @@
 - SQL para criar o banco está no repositório
 - API para consultar CEP, VIACEP
 - Conexão com a internet
+- Modelagem de dados:
+  - https://dbdiagram.io/d/5f95abab3a78976d7b7912e4
 - Usuario primeiro acesso administrador
 
   -12345678945
