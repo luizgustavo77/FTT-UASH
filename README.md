@@ -10,9 +10,9 @@
 - API para consultar CEP, VIACEP
 - Conexão com a internet
 - Modelagem de dados:
-  - (dbdiagram)[https://dbdiagram.io/d/5f95abab3a78976d7b7912e4]
+  - [dbdiagram](https://dbdiagram.io/d/5f95abab3a78976d7b7912e4)
 - StoryMap & StoryBoard
-  - (Page)[https://cefsaedu-my.sharepoint.com/:x:/g/personal/082170021_ftt_cefsa_edu_br/EcleN6v15UtCiPt6BNvtC2sBb95QRQdRNNPgYssZAiYC3A?e=68qSdn]
+  - [Page](https://cefsaedu-my.sharepoint.com/:x:/g/personal/082170021_ftt_cefsa_edu_br/EcleN6v15UtCiPt6BNvtC2sBb95QRQdRNNPgYssZAiYC3A?e=68qSdn)
 - Usuario primeiro acesso administrador
   - 12345678945
   - 123456
