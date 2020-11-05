@@ -1,0 +1,4 @@
+driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/FTT
+user=useradmin
+password=Us3r@d!in
